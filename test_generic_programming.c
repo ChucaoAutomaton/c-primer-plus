@@ -23,4 +23,5 @@ int main() {
     arr[MAP(0)](0);
     arr[MAP(1.0)](1.0);
     printf("%llf\n", SQRT(1.0));
+    sort()
 }
